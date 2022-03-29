@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="src.pair_finder_solver.PairFinderSolver.__build_hash_map" />
+          <option value="src.pair_finder_solver.PairFinderSolver._PairFinderSolver__build_hash_map" />
+          <option value="src.pair_finder_solver.PairFinderSolver._PairFinderSolver__clear" />
+          <option value="src.pair_finder_solver.PairFinderSolver._PairFinderSolver__initialize" />
+          <option value="src.pair_finder_solver.PairFinderSolver._PairFinderSolver__remove_from_map" />
+          <option value="src.pair_finder_solver.PairFinderSolver._PairFinderSolver__add_to_map" />
+          <option value="src.pair_finder_solver.PairFinderSolver._PairFinderSolver__build_pair" />
+          <option value="src.pair_finder_solver.PairFinderSolver._PairFinderSolver__add_pair" />
+          <option value="src.pair_finder_solver.PairFinderSolver._PairFinderSolver__is_in_map" />
+          <option value="src.pair_finder_solver.PairFinderSolver._PairFinderSolver__solve" />
+          <option value="src.pair_finder.PairFinder._PairFinder__pair_2_str" />
+          <option value="src.pair_finder.PairFinder._PairFinder__pair2_2_str" />
+          <option value="src.pair_finder.PairFinder._PairFinder__pairs_2_str" />
+          <option value="src.pair_finder.PairFinder._PairFinder__save_output" />
+          <option value="src.pair_finder.PairFinder._PairFinder__test_split_line" />
+          <option value="src.pair_finder.PairFinder._PairFinder__str_list_2_int_list" />
+          <option value="src.pair_finder.PairFinder._PairFinder__split_line" />
+          <option value="src.pair_finder.PairFinder._PairFinder__find_raw_input_vector" />
+          <option value="src.pair_finder.PairFinder._PairFinder__is_valid_input_vector" />
+          <option value="src.pair_finder.PairFinder._PairFinder__load_input" />
+          <option value="src.pair_finder.PairFinder._PairFinder__find_pairs_solve" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
